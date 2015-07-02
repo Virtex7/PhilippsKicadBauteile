@@ -1,0 +1,9 @@
+# die folgenden Dateitypen und Ordner werden nicht ins git aufgenommen!
+
+# KiCAD:
+*.bak
+*.brd
+*.sch
+*.kicad_pcb-bak
+*.gif
+*.ps

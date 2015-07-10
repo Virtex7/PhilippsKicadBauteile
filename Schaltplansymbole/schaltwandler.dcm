@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS40054
+D TPS4005x Wide Input Synchronous Buck Controller
+K SNT Buck Step-Down Synchronous TPS TI
+$ENDCMP
+#
+#End Doc Library

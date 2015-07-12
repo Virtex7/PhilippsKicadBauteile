@@ -347,6 +347,11 @@ D Value-line ARM-based 32-Bit MCU with up to 256kB Flash, timers, ADC, communica
 K ARM Cortex M0 F0 STM32F0 MCU
 $ENDCMP
 #
+$CMP STM32F071Cx
+D Value-line ARM-based 32-Bit MCU with up to 256kB Flash, timers, ADC, DAC, communication interfaces, 2.4-3.6V operation - LQFP64 version
+K ARM Cortex M0 F0 STM32F0 MCU
+$ENDCMP
+#
 $CMP STM32F405RG
 D ARM Cortex-M4 32b MCU+FPU, 210DMIPS, up to 1MB Flash/192+4KB RAM, USB OTG HS/FS, Ethernet, 17 TIMs, 3 ADCs, 15 comm. interfaces & camera
 K STM32F40x

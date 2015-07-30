@@ -1,7 +1,12 @@
-EESchema-DOCLIB  Version 2.0  Date: Mo 14 Okt 2013 22:17:10 CEST
+EESchema-DOCLIB  Version 2.0
 #
 $CMP BTDR-2
 D Belton/Accutronics Reverb IC
+$ENDCMP
+#
+$CMP DS3231
+D DS3231 Real Time Clock
+K RTC DS3231
 $ENDCMP
 #
 $CMP PT2399

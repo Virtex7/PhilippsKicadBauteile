@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A4960
+D The A4960 is a three-phase, sensorless, brushless DC (BLDC) motor controller for use with external N-channel power MOSFETs.
+K A4960 bldc n-fet driver sensorless bldc controller
+$ENDCMP
+#
+#End Doc Library

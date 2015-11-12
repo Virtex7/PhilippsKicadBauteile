@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS4242
+D 14-Bit 160/125/65MSPS Ultralow-Power ADC
+K ADC 14 Bit single supply
+$ENDCMP
+#
+#End Doc Library

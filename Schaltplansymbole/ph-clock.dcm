@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FOX924B
+D 3,3V ultra miniature SMD HCMOS TCXO
+K 3,3V HCMOS TCXO
+$ENDCMP
+#
+$CMP FOX924E
+D 3,3V ultra miniature SMD HCMOS VCTCXO
+K 3,3V HCMOS VCTCXO
+$ENDCMP
+#
+$CMP SI5351A3
+D i2c programmable any-frequency cmos clock generator and VCXO - 3 output version without VCXO
+K Clock generator, i2c
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI5351A3
+D i2c programmable any-frequency cmos clock generator and VCXO - 3 output version without VCXO
+K Clock generator, i2c
+$ENDCMP
+#
+$CMP TPS73401DDC
+D 250mA low quiescent current ultralow-noise high PSRR LDO - SOT23-5 adjustable output voltage
+K LDO fixed Outout low noise
+$ENDCMP
+#
+$CMP TPS73401DRV
+D 250mA low quiescent current ultralow-noise high PSRR LDO - SON-6 adjustable output voltage
+K LDO fixed Outout low noise
+$ENDCMP
+#
+$CMP TPS734xxDDC
+D 250mA low quiescent current ultralow-noise high PSRR LDO - SOT23-5 fixed output voltage
+K LDO fixed Outout low noise
+$ENDCMP
+#
+$CMP TPS734xxDRV
+D 250mA low quiescent current ultralow-noise high PSRR LDO - SON-6 fixed output voltage
+K LDO fixed Outout low noise
+$ENDCMP
+#
+#End Doc Library

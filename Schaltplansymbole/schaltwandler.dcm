@@ -1,5 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LT3750
+D Capacitor Charger Controller
+$ENDCMP
+#
+$CMP LT3751-TSSOP
+D High Voltage Capacitor Charger Controller with Regulation - TSSOP version
+$ENDCMP
+#
+$CMP LT3751-UFD
+D High Voltage Capacitor Charger Controller with Regulation - UFD version
+$ENDCMP
+#
+$CMP LT3751-UFN
+D High Voltage Capacitor Charger Controller with Regulation - UFN version
+$ENDCMP
+#
 $CMP TPS40054
 D TPS4005x Wide Input Synchronous Buck Controller
 K SNT Buck Step-Down Synchronous TPS TI

@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: So 23 Jun 2013 14:02:47 CEST
+EESchema-DOCLIB  Version 2.0
 #
 $CMP 74X00
 D quad 2-input NAND gatter
@@ -414,6 +414,16 @@ $ENDCMP
 #
 $CMP 74X95
 D 4-bit parallel-access shift register
+$ENDCMP
+#
+$CMP sn75160
+D DS75161A IEEE-488 GPIB Transceivers - Data line controller
+K IEEE GPIB TI 75160 DS75160 SN75160
+$ENDCMP
+#
+$CMP sn75161
+D DS75161A IEEE-488 GPIB Transceivers
+K IEEE GPIB TI 75161 DS75161 SN75161
 $ENDCMP
 #
 #End Doc Library

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT245BL
+D FT245BL USB FIFO ( USB - Parallel ) I.C.
+K FTDI FT245 FIFO
+$ENDCMP
+#
+#End Doc Library

@@ -2,6 +2,7 @@
 
 # KiCAD:
 *.bak
+*.bck
 *.brd
 *.sch
 *.kicad_pcb-bak

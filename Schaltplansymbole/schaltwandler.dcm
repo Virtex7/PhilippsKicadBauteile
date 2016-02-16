@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADP2107
+D 2 Amp Synchronous,Step-Down DC-to-DC Converter
+K SNT StepDown Buck Converter
+$ENDCMP
+#
 $CMP LT3750
 D Capacitor Charger Controller
 $ENDCMP

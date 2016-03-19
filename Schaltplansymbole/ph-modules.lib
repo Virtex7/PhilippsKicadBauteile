@@ -51,4 +51,21 @@ X GND 14 500 400 200 L 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
+# phStepDownModule_5and3,3V
+#
+DEF phStepDownModule_5and3,3V IC 0 40 Y Y 1 F N
+F0 "IC" 0 -150 60 H V C CNN
+F1 "phStepDownModule_5and3,3V" 0 -350 60 H V C CNN
+F2 "" 0 -750 60 H V C CNN
+F3 "" 0 -750 60 H V C CNN
+DRAW
+T 0 0 350 60 0 0 0 bis~2~A~pro~Ausgang  Normal 0 C C
+S 550 250 -550 -250 0 1 0 N
+X Vin 1 -750 150 200 R 50 50 1 1 W
+X GND 2 -750 -150 200 R 50 50 1 1 W
+X 5Vout 3 750 150 200 L 50 50 1 1 w
+X 3,3Vout 4 750 50 200 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
 #End Library

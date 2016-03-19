@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADP1829
+D Dual, Interleaved, Step-Down DC-to-DC Controller with Tracking
+K snt dual step down
+$ENDCMP
+#
 $CMP ADP2107
 D 2 Amp Synchronous,Step-Down DC-to-DC Converter
 K SNT StepDown Buck Converter

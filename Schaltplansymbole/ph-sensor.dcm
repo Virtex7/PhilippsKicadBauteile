@@ -5,4 +5,9 @@ D Fully Integrated, Hall Effect-Based Linear Current Sensor IC with 2.1 kVRMS Is
 K current sensor hall-effect 
 $ENDCMP
 #
+$CMP AS3935
+D AS3935 is ideal for Weather Stations, Clocks, Sports Equipment, Portables, Pool Safety, Uninterruptible Power Supply (UPS), Global Positioning System (GPS), Cellular phones, Watches, and Golf Equipment.
+K Franklin Lightning Sensor IC
+$ENDCMP
+#
 #End Doc Library

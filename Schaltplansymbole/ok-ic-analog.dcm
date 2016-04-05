@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Di 22 Jan 2013 18:54:55 CET
+EESchema-DOCLIB  Version 2.0
 #
 $CMP BA3812
 D BA3812 -- 5 channel graphic equalizer
@@ -64,8 +64,9 @@ $CMP TL072
 D dual opamp in 8-pin case
 $ENDCMP
 #
-$CMP UA741
-D opamp in 8-pin case, 2 offset pins
+$CMP TS321-sot23
+D The TS321 is a bipolar operational amplifier for cost-sensitive applications in which space savings are important.
+K opv single PC hvac sot23
 $ENDCMP
 #
 #End Doc Library

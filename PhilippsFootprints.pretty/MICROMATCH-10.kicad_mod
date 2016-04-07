@@ -1,4 +1,4 @@
-(module con-amp-micromatch-MICROMATCH-10 (layer F.Cu) (tedit 55DF5895)
+(module MICROMATCH-10 (layer F.Cu) (tedit 55DF5895)
   (descr "MICROMATCH 10  8-215464-0 / 1-215464-0")
   (tags "MICROMATCH 10  8-215464-0 / 1-215464-0")
   (attr virtual)

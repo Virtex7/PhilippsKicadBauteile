@@ -56,6 +56,11 @@ $CMP NE555
 D NE555 timer ic
 $ENDCMP
 #
+$CMP TDA1308A
+D The TDA1308 is an integrated class-AB stereo headphone driver contained in an SO8 or a TSSOP8 plastic package. The device is fabricated in a 1 μm Complementary Metal Oxide Semiconductor (CMOS) process and has been primarily developed for portable digital audio applications.
+K headphone amplifier so8 class AB
+$ENDCMP
+#
 $CMP TL071
 D opamp in 8-pin case, 2 offset pins
 $ENDCMP

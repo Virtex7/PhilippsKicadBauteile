@@ -26,6 +26,10 @@ $CMP LT3751-UFN
 D High Voltage Capacitor Charger Controller with Regulation - UFN version
 $ENDCMP
 #
+$CMP MINI360
+D small BuckConverter module, up to 1,5A 30VDC
+$ENDCMP
+#
 $CMP TPS40054
 D TPS4005x Wide Input Synchronous Buck Controller
 K SNT Buck Step-Down Synchronous TPS TI

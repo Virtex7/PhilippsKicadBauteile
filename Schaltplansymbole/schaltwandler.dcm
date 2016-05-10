@@ -35,4 +35,9 @@ D TPS4005x Wide Input Synchronous Buck Controller
 K SNT Buck Step-Down Synchronous TPS TI
 $ENDCMP
 #
+$CMP TPS62175
+D The TPS6217x is a high efficiency synchronous step-down DC/DC converter, based on the DCS-Control topology.
+K SNT TPS TI SleepMode Buck StepDown
+$ENDCMP
+#
 #End Doc Library

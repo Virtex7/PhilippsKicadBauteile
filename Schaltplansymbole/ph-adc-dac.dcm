@@ -5,4 +5,8 @@ D 14-Bit 160/125/65MSPS Ultralow-Power ADC
 K ADC 14 Bit single supply
 $ENDCMP
 #
+$CMP ADS8866
+D 16-Bit, 100-kSPS, Serial Interface, microPower, Miniature, Single-Ended Input, SAR Analog-to-Digital Converter
+$ENDCMP
+#
 #End Doc Library

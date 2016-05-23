@@ -92,6 +92,10 @@ $CMP INCENC_SW
 D Incremental Encoder with push button switch
 $ENDCMP
 #
+$CMP MCPL3-BC-V
+D Navigation Switch - Push and Lever
+$ENDCMP
+#
 $CMP SW-3PDT
 D 3PDT switch
 $ENDCMP

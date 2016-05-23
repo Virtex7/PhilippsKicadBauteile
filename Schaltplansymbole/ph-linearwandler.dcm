@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LP38798
+D LP38798 High PSRR, Ultra-Low-Noise, 800-mA Linear Voltage Regulator for RF/Analog Circuits
+K ldo, low psrr, rf
+$ENDCMP
+#
 $CMP TPS73401DDC
 D 250mA low quiescent current ultralow-noise high PSRR LDO - SOT23-5 adjustable output voltage
 K LDO fixed Outout low noise

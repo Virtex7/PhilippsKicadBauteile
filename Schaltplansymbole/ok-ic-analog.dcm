@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Di 22 Jan 2013 18:54:55 CET
+EESchema-DOCLIB  Version 2.0
 #
 $CMP BA3812
 D BA3812 -- 5 channel graphic equalizer
@@ -56,6 +56,11 @@ $CMP NE555
 D NE555 timer ic
 $ENDCMP
 #
+$CMP TDA1308A
+D The TDA1308 is an integrated class-AB stereo headphone driver contained in an SO8 or a TSSOP8 plastic package. The device is fabricated in a 1 μm Complementary Metal Oxide Semiconductor (CMOS) process and has been primarily developed for portable digital audio applications.
+K headphone amplifier so8 class AB
+$ENDCMP
+#
 $CMP TL071
 D opamp in 8-pin case, 2 offset pins
 $ENDCMP
@@ -64,8 +69,9 @@ $CMP TL072
 D dual opamp in 8-pin case
 $ENDCMP
 #
-$CMP UA741
-D opamp in 8-pin case, 2 offset pins
+$CMP TS321-sot23
+D The TS321 is a bipolar operational amplifier for cost-sensitive applications in which space savings are important.
+K opv single PC hvac sot23
 $ENDCMP
 #
 #End Doc Library

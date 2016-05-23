@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Do 19 Sep 2013 22:34:18 CEST
+EESchema-DOCLIB  Version 2.0
 #
 $CMP 2N7002
 D Logic level compatible N-channel mosfet
@@ -14,6 +14,11 @@ $ENDCMP
 #
 $CMP DMP4051
 D BSS84 (SOT-23) P-Mosfet
+$ENDCMP
+#
+$CMP FDML7610S
+D This device includes two specialized N-Channel MOSFETs in a dual MLP package.The switch node has been internally connected to enable easy placement and routing of synchronous buck converters. The control MOSFET (Q1) and synchronous SyncFET (Q2) have been designed to provide optimal power efficiency.
+K PowerTrench Power Stage Asymmetric Dual N-Channel MOSFET
 $ENDCMP
 #
 $CMP N-DARL

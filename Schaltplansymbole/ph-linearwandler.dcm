@@ -20,4 +20,14 @@ D 250mA low quiescent current ultralow-noise high PSRR LDO - SON-6 fixed output 
 K LDO fixed Outout low noise
 $ENDCMP
 #
+$CMP TPS7A66xxQ1
+D TPS7A6xxx-Q1 High-Voltage Ultralow-Iq Low-Dropout Regulator
+K LDO fixed Output MSOP
+$ENDCMP
+#
+$CMP TPS7A69xxQ1
+D TPS7A6xxx-Q1 High-Voltage Ultralow-Iq Low-Dropout Regulator
+K LDO fixed Output SOIC
+$ENDCMP
+#
 #End Doc Library

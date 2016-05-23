@@ -13,4 +13,9 @@ $CMP PT2399
 D PT2399 digital delay IC
 $ENDCMP
 #
+$CMP WS2811
+D Signal line 256 Gray level 3 channal Constant current LED drive IC
+K ws2811 led driver open collector
+$ENDCMP
+#
 #End Doc Library

@@ -11,6 +11,10 @@ D Si4432 breakout module digital UHF Transceiver
 K SI4432 UHF TRX
 $ENDCMP
 #
+$CMP esp-100
+D esp-100 ESP8266 Breakout-Board mit 4MB Flash
+$ENDCMP
+#
 $CMP phStepDownModule_5and3,3V
 D stepdown module build with ADPxx and two SRR5018-3R0Y inductors. capable up to 20V at the input and fixed to 5 and 3,3V at the outputs
 K step down, ADP1829

@@ -1,4 +1,4 @@
-(module Audio3:LUM1503 (layer F.Cu) (tedit 550D19AA)
+(module LUM1503-07 (layer F.Cu) (tedit 550D19AA)
   (fp_text reference J7 (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

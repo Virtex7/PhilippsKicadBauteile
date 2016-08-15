@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TekProbe Port
+D TekProbe Scope Connector
+K TEK BNC TekProbe Oscilloscope
+$ENDCMP
+#
+#End Doc Library

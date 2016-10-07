@@ -1,6 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP TekProbe Port
+$CMP TekProbe
 D TekProbe Scope Connector
 K TEK BNC TekProbe Oscilloscope
 $ENDCMP

@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TRANS_1P1S
+D transformer: 1x pri, 1x sec
+$ENDCMP
+#
+$CMP TRANS_FW5_ETD29
+D transformer: 1x pri, 5x sec, ETD29
+$ENDCMP
+#
+$CMP WE_FLEX_749196131
+D WE-FLEX Flexible Transformer for DC/DC Converter
+K Flyback Transformer WE-FLEX Würth Wuerth
+$ENDCMP
+#
+#End Doc Library

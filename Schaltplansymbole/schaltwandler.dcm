@@ -26,6 +26,16 @@ $CMP LT3751-UFN
 D High Voltage Capacitor Charger Controller with Regulation - UFN version
 $ENDCMP
 #
+$CMP LT8302
+D 42VIN Micropower, No-Opto Isolated Flyback Converter with 63V/3,6A Switch
+K Flyback 42Vin internal switch
+$ENDCMP
+#
+$CMP LT8304
+D 100VIN Micropower, No-Opto Isolated Flyback Converter with 150V/2A Switch
+K Flyback 100Vin internal switch
+$ENDCMP
+#
 $CMP MINI360
 D small BuckConverter module, up to 1,5A 30VDC
 $ENDCMP

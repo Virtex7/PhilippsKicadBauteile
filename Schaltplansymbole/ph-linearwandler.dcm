@@ -5,6 +5,61 @@ D LP38798 High PSRR, Ultra-Low-Noise, 800-mA Linear Voltage Regulator for RF/Ana
 K ldo, low psrr, rf
 $ENDCMP
 #
+$CMP LT3032
+D LT 3032 Series - Dual 150mA Positive/Negative Low Noise Low Dropout Linear Regulator
+K LDO LT DUAL 150mA
+$ENDCMP
+#
+$CMP LT3065EDD-1,2
+D 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good
+K LDO 45Vin 500mA, Fixed 1,2V Output, DFN
+$ENDCMP
+#
+$CMP LT3065EDD-1,5
+D 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good
+K LDO 45Vin 500mA, Fixed 1,5V Output, DFN
+$ENDCMP
+#
+$CMP LT3065EDD-1,8
+D 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good
+K LDO 45Vin 500mA, Fixed 1,8V Output, DFN
+$ENDCMP
+#
+$CMP LT3065EDD-2,5
+D 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good
+K LDO 45Vin 500mA, Fixed 2,5V Output, DFN
+$ENDCMP
+#
+$CMP LT3065EDD-3,3
+D 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good
+K LDO 45Vin 500mA, Fixed 3,3V Output, DFN
+$ENDCMP
+#
+$CMP LT3065EDD-5
+D 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good
+K LDO 45Vin 500mA, Fixed 5V Output, DFN
+$ENDCMP
+#
+$CMP LT3065EDD-Adj
+D 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good
+K LDO 45Vin 500mA, Adjustable Output, DFN
+$ENDCMP
+#
+$CMP LT3065EMSE-Adj
+D 45V VIN, 500mA Low Noise, Linear Regulator with Programmable Current Limit and Power Good
+K LDO 45Vin 500mA, Adjustable Output, MSOP
+$ENDCMP
+#
+$CMP LT3090EDD
+D –36V, 600mA Negative Linear Regulator with Programmable Current Limit
+K LDO 600mA -36V DFN
+$ENDCMP
+#
+$CMP LT3090EMSE
+D –36V, 600mA Negative Linear Regulator with Programmable Current Limit
+K LDO 600mA -36V MSOP
+$ENDCMP
+#
 $CMP TPS73401DDC
 D 250mA low quiescent current ultralow-noise high PSRR LDO - SOT23-5 adjustable output voltage
 K LDO fixed Outout low noise

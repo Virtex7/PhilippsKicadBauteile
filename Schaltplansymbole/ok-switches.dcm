@@ -84,6 +84,10 @@ $CMP DIPSW12
 D 12 pole DIP switch
 $ENDCMP
 #
+$CMP Drehimpulsgeber
+D standard chinese rotary encoder
+$ENDCMP
+#
 $CMP INCENC
 D Incremental Encoder
 $ENDCMP

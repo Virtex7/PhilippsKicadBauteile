@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA336-SO8
+D SINGLE-SUPPLY, microPower CMOS OPERATIONAL AMPLIFIERS
+K microAmplifier TM Series SO-8
+$ENDCMP
+#
+$CMP OPA336-SOT23-5
+D SINGLE-SUPPLY, microPower CMOS OPERATIONAL AMPLIFIERS
+K microAmplifier TM Series SOT23-5
+$ENDCMP
+#
+#End Doc Library

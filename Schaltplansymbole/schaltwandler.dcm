@@ -10,6 +10,16 @@ D 2 Amp Synchronous,Step-Down DC-to-DC Converter
 K SNT StepDown Buck Converter
 $ENDCMP
 #
+$CMP AL8808
+D COST EFFECTIVE LOW EMI 30V 1A BUCK LED DRIVER
+K LED Driver Buck 1A
+$ENDCMP
+#
+$CMP AL8820
+D 40V, 2A BOOST/BUCK LED DRIVER
+K PFC BUCK/BOOST LED DRIVER 2A 40V
+$ENDCMP
+#
 $CMP LT3750
 D Capacitor Charger Controller
 $ENDCMP
@@ -43,6 +53,16 @@ $ENDCMP
 $CMP TPS40054
 D TPS4005x Wide Input Synchronous Buck Controller
 K SNT Buck Step-Down Synchronous TPS TI
+$ENDCMP
+#
+$CMP TPS54332
+D 4.5V to 28V Input, 3A, NON-Synchronous, Step-Down Converter with Eco-mode
+K buck converter 3A 28V
+$ENDCMP
+#
+$CMP TPS54335A
+D TPS5433xA 4.5-V to 28-V Input, 3-A Output, Synchronous Step-Down DC-DC Converter
+K buck converter synchronous 28V 3A
 $ENDCMP
 #
 $CMP TPS62175

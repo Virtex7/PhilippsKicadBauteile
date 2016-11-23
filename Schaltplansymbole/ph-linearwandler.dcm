@@ -60,6 +60,16 @@ D –36V, 600mA Negative Linear Regulator with Programmable Current Limit
 K LDO 600mA -36V MSOP
 $ENDCMP
 #
+$CMP MIC5205-2.5BM5
+D 150mA Low-Noise LDO Regulator
+K LDO fixed output low noise
+$ENDCMP
+#
+$CMP MIC5205BM5
+D 150mA Low-Noise LDO Regulator
+K LDO adjustable Output low noise
+$ENDCMP
+#
 $CMP TPS73401DDC
 D 250mA low quiescent current ultralow-noise high PSRR LDO - SOT23-5 adjustable output voltage
 K LDO fixed Outout low noise

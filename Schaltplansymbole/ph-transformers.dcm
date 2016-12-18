@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Printtrafo_1p1s
+D std. Printtrafo 1p1s
+$ENDCMP
+#
 $CMP TRANS_1P1S
 D transformer: 1x pri, 1x sec
 $ENDCMP

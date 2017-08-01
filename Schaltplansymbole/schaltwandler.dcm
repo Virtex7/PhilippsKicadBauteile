@@ -70,6 +70,11 @@ D TPS5433xA 4.5-V to 28-V Input, 3-A Output, Synchronous Step-Down DC-DC Convert
 K buck converter synchronous 28V 3A
 $ENDCMP
 #
+$CMP TPS561201
+D The TPS561201 and TPS561208 are simple, easy-to-use, 1-A synchronous step-down converters in SOT-23 package.
+K TPS56120x 4.5-V to 17-V Input, 1-A Synchronous Step-Down Voltage Regulator in 6-Pin SOT-23
+$ENDCMP
+#
 $CMP TPS62175
 D The TPS6217x is a high efficiency synchronous step-down DC/DC converter, based on the DCS-Control topology.
 K SNT TPS TI SleepMode Buck StepDown

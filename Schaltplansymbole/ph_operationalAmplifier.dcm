@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP INA199
+D Current Shunt Monitor −16 V to +80 V Common-Mode Range, 20V/V, SC70-6
+K current sense shunt monitor
+F http://www.ti.com/lit/ds/symlink/ina199.pdf
+$ENDCMP
+#
 $CMP OPA336-SO8
 D SINGLE-SUPPLY, microPower CMOS OPERATIONAL AMPLIFIERS
 K microAmplifier TM Series SO-8
@@ -8,6 +14,14 @@ $ENDCMP
 $CMP OPA336-SOT23-5
 D SINGLE-SUPPLY, microPower CMOS OPERATIONAL AMPLIFIERS
 K microAmplifier TM Series SOT23-5
+$ENDCMP
+#
+$CMP TS1100
+D Uni- and Bidirectional Current-Sense Amplifiers
+$ENDCMP
+#
+$CMP TS1101
+D Uni- and Bidirectional Current-Sense Amplifiers
 $ENDCMP
 #
 #End Doc Library

@@ -46,6 +46,11 @@ D 100VIN Micropower, No-Opto Isolated Flyback Converter with 150V/2A Switch
 K Flyback 100Vin internal switch
 $ENDCMP
 #
+$CMP LTC4449
+D High Speed Synchronous N-Channel MOSFET Driver
+K driver, sync, adaptive dead time, high frequency
+$ENDCMP
+#
 $CMP MINI360
 D small BuckConverter module, up to 1,5A 30VDC
 $ENDCMP

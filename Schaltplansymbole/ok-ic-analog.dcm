@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD5272
+D Digital potentiometer, 1024/256 position, single output, I2C interface
+K digital potentiometer
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD5272_5274.pdf
+$ENDCMP
+#
 $CMP BA3812
 D BA3812 -- 5 channel graphic equalizer
 $ENDCMP

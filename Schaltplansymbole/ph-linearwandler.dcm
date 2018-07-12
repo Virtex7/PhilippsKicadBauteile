@@ -70,6 +70,11 @@ D 150mA Low-Noise LDO Regulator
 K LDO adjustable Output low noise
 $ENDCMP
 #
+$CMP TL431
+D Adjustable precision shunt regulator
+K shunt regulator
+$ENDCMP
+#
 $CMP TPS73401DDC
 D 250mA low quiescent current ultralow-noise high PSRR LDO - SOT23-5 adjustable output voltage
 K LDO fixed Outout low noise

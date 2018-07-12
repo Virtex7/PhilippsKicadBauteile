@@ -20,6 +20,10 @@ D 40V, 2A BOOST/BUCK LED DRIVER
 K PFC BUCK/BOOST LED DRIVER 2A 40V
 $ENDCMP
 #
+$CMP LM5002
+D LM5002 Wide Input Voltage Switch Mode Regulator
+$ENDCMP
+#
 $CMP LT3750
 D Capacitor Charger Controller
 $ENDCMP

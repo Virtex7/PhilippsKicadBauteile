@@ -416,6 +416,11 @@ $CMP 74X95
 D 4-bit parallel-access shift register
 $ENDCMP
 #
+$CMP NL17Z04
+D The NL17SZ04 is an inverter in three tiny footprint packages. The device performs much as LCX multi−gate products in speed and drive.
+K Single Inverter
+$ENDCMP
+#
 $CMP sn74lvc1g3157
 D SN74LVC1G3157 Single-Pole Double-Throw Analog Switch
 $ENDCMP

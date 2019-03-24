@@ -64,6 +64,16 @@ D 4 Channels Constant Current LED Driver With Addressable DMX512 Protocol and Di
 K DMX DMX512 LED Driver RGB RGBW
 $ENDCMP
 #
+$CMP SI8274-DFN
+D 4 Amp ISOdriver with High Transient (dV/dt) Immunity
+K ISO FET Driver
+$ENDCMP
+#
+$CMP SI8274-SOIC
+D 4 Amp ISOdriver with High Transient (dV/dt) Immunity
+K ISO FET Driver
+$ENDCMP
+#
 $CMP TPS40054
 D TPS4005x Wide Input Synchronous Buck Controller
 K SNT Buck Step-Down Synchronous TPS TI

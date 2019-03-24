@@ -75,6 +75,11 @@ D Adjustable precision shunt regulator
 K shunt regulator
 $ENDCMP
 #
+$CMP TLV741P
+D TLV741P 150-mA, Low-Dropout Regulator With Foldback Current Limit
+K LDO 150mA Foldback-current
+$ENDCMP
+#
 $CMP TPS73401DDC
 D 250mA low quiescent current ultralow-noise high PSRR LDO - SOT23-5 adjustable output voltage
 K LDO fixed Outout low noise
